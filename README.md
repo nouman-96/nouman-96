@@ -33,7 +33,7 @@
 
 [<img align="left" alt="Raspberry-PI" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />][RPI]
 
-[<img align="left" alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />][RPI]
+[<img align="left" alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />][opencv]
 
 
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][RPI]
@@ -54,3 +54,4 @@
 [CPP]: https://github.com/nouman-96/DSA_Labs_CPP
 [Arduino]: https://github.com/nouman-96/Self-Balancing-Robot
 [RPI]: https://github.com/nouman-96/DSA_Lab_02
+[opencv]: https://github.com/nouman-96/Gimbal-based-Robotic-Eye-Design-for-Fast-Moving-Stimulus-Detection-
