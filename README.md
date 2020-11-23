@@ -53,5 +53,5 @@
 [Clan]: https://github.com/nouman-96/DSA_Labs_CPP
 [CPP]: https://github.com/nouman-96/DSA_Labs_CPP
 [Arduino]: https://github.com/nouman-96/Self-Balancing-Robot
-[RPI]: https://github.com/nouman-96/DSA_Lab_02
+[RPI]: https://github.com/nouman-96/Gimbal-based-Robotic-Eye-Design-for-Fast-Moving-Stimulus-Detection-
 [opencv]: https://github.com/nouman-96/Gimbal-based-Robotic-Eye-Design-for-Fast-Moving-Stimulus-Detection-
