@@ -5,7 +5,7 @@
 ## I'm a Tech Enthusiast, Engineer, Roboticist, and Electronics Hobbyist!!
 
 - 🌱 I’m currently learning embedded development for smart internet of things and autonomous robotics 
-- 👯 I’m looking to collaborate with research community for intelligent machine learning and perception in robotics 
+- 👯 I’m looking to collaborate with research community for intelligent machine learning and perception in robotics for healthcare and commercial sector
 - 🥅 2021 Goals: Contribute more to Open Source projects related to robotics and automation
 - ⚡ The purpose of life is a life of purpose
 
