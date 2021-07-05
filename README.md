@@ -2,11 +2,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/96_nouman?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/96_nouman?s=03)
 
-## I'm a Tech Enthusiast, Engineer, Roboticist, and Electronics Hobbyist!!
+## I'm a Tech Enthusiast, Engineer, Biomedical Devices Developer and Electronics Hobbyist!!
 
-- 🌱 I’m currently learning embedded development for smart internet of things and autonomous robotics 
-- 👯 I’m looking to collaborate with research community for intelligent machine learning and perception in robotics for healthcare and commercial sector
-- 🥅 2021 Goals: Contribute more to Open Source projects related to robotics and automation
+- 🌱 I’m currently learning embedded development for smart internet of things for biomedical applications 
+- 👯 I’m looking to collaborate with research community for smart healthcare devices for remote patient monitoring 
+- 🥅 2021 Goals: Contribute more to Open Source projects related to AI and IoT in healthcare 
 - ⚡ The purpose of life is a life of purpose
 
 
