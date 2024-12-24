@@ -55,15 +55,15 @@ I’m an **Embedded Systems Engineer** with 4+ years of experience in developing
 
 ## 🛠️ Languages and Tools
 
-[<img align="left" alt="C" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" />](#)
-[<img align="left" alt="C++" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />](#)
-[<img align="left" alt="Rust" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" />](#)
-[<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />](#)
-[<img align="left" alt="Zephyr RTOS" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/zephyr/zephyr.png" />](#)
-[<img align="left" alt="Embedded Linux" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />](#)
-[<img align="left" alt="BLE" width="36px" src="https://raw.githubusercontent.com/github/explore/main/topics/bluetooth/bluetooth.png" />](#)
-
-<br />
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" width="36px" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" width="36px" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" alt="Rust" width="36px" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="36px" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/zephyr/zephyr.png" alt="Zephyr RTOS" width="36px" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux" width="36px" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/bluetooth/bluetooth.png" alt="BLE" width="36px" />
+</div>
 
 ---
 
@@ -73,4 +73,3 @@ If you're working on projects in **IoT, healthcare devices**, or **industrial au
 
 ---
 
-This structure makes the content visually appealing, easy to read, and more professional. Let me know if you'd like further tweaks!
