@@ -48,28 +48,4 @@ I’m an **Embedded Systems Engineer** with 4+ years of experience in developing
 
 - 📧 Email: [m.nouman.6919@gmail.com](mailto:m.nouman.6919@gmail.com)  
 - 🌐 GitHub: [nouman-96](https://github.com/nouman-96)  
-- 🐦 Twitter: [96_nouman](https://twitter.com/96_nouman)  
-- 💼 LinkedIn: [nouman96](https://www.linkedin.com/in/nouman96/)  
-
----
-
-## 🛠️ Languages and Tools
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" width="36px" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++" width="36px" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" alt="Rust" width="36px" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="36px" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/zephyr/zephyr.png" alt="Zephyr RTOS" width="36px" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux" width="36px" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/bluetooth/bluetooth.png" alt="BLE" width="36px" />
-</div>
-
----
-
-## 🤝 Let’s Collaborate
-
-If you're working on projects in **IoT, healthcare devices**, or **industrial automation**, feel free to reach out. I’d love to contribute and collaborate!
-
----
-
+- 🐦 Twitter: [96_nouman
