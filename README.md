@@ -61,7 +61,7 @@ I’m an **Embedded Systems Engineer** with 4+ years of experience in developing
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" alt="Rust" width="36px" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="36px" />
   <img src="https://img.icons8.com/color/48/000000/bluetooth.png" alt="BLE" width="36px" />
-  <img src="./zephyrlogo.png" alt="Zephyr RTOS" width="36px" />
+  <img src="./images.jpeg" alt="Zephyr RTOS" width="36px" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux" width="36px" />
 </div>
 
